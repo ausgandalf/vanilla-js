@@ -15,10 +15,3 @@ A lightweight task manager built with pure JavaScript and HTML — no frameworks
 2. Add tasks using the form.
 3. Click a task to remove it.
 
-## Preview
-
-![Task Tracker Screenshot](https://via.placeholder.com/600x300?text=Task+Tracker)
-
----
-
-Created by Jessee Beecham

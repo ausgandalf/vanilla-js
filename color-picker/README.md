@@ -14,10 +14,3 @@ A simple, framework-free color picker module using HTML5 input and JavaScript.
 2. Use the color input to pick any color.
 3. Background and text update dynamically.
 
-## Preview
-
-![Color Picker Screenshot](https://via.placeholder.com/600x300?text=Color+Picker)
-
----
-
-Created by Jessee Beecham
