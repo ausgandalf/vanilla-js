@@ -4,10 +4,12 @@ A lightweight task manager built with pure JavaScript and HTML — no frameworks
 
 ## Features
 
-- Add and remove tasks
+- Add, edit, move and remove tasks
+- To edit, simply click the task name in the list.
 - Persistent storage via LocalStorage
 - Minimal, modular codebase
 - Clean DOM manipulation and event handling
+- No styles applied
 
 ## How to Run
 
