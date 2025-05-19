@@ -15,5 +15,8 @@ A lightweight task manager built with pure JavaScript and HTML — no frameworks
 
 1. Open `index.html` in any browser.
 2. Add tasks using the form.
-3. Click a task to remove it.
+3. Type a task name and then hit Add button or simply type enter.
+4. Click a task in the list to edit it.
+5. Click Up/Down button to re-order tasks.
+5. Click Delete button to remove it.
 
